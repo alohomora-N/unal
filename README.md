@@ -1,7 +1,7 @@
-# Tauri + React + Typescript
+# unal
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Collect the Dataset for NLP.
 
-## Recommended IDE Setup
+## info
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+used [Tauri](https://tauri.app/) implement
