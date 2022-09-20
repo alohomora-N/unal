@@ -1,6 +1,6 @@
 # unal
 
-Collect the voice Dataset for NLP.
+Collect the voice dataset for NLP.
 
 ## info
 
