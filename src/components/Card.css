@@ -1,0 +1,28 @@
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 94%;
+  height: 5rem;
+  background-color: #0f0f0f98;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}
+
+.btnList {
+  display: none;
+  flex-direction: column;
+  margin: 1rem;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.content {
+  flex: 9;
+  padding: 1rem;
+  align-self: center;
+}
+
+.content:hover + .btnList {
+  display: flex;
+}
